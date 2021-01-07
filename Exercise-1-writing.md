@@ -4,7 +4,7 @@ In the *Introduction to Sustainability* and *Introduction to Spatial Data Scienc
 a few basic concepts about sustainable development goals and modern geospatial analytics. 
 In this written assignment, the idea is to reflect a bit of the things that we have learned from your own perspective.
 
-For this exercise, we recommend that you first write your text into Google Docs (or some other text editor), and once you are ready, paste the text into this Markdown document located at **your personal copy of the exercise** (e.g. `exercise-1-htenkanen`). You can add your text here using the editing functionalities of GitHub: click `Edit`, then modify this document, and commit (i.e. save) your changes (to be able to do that, you need to add a commit message like `Update docs`). 
+For this exercise, we recommend that you first write your text into Google Docs (or some other text editor), and once you are ready, paste the text into this Markdown document located at **your personal copy of the exercise** (e.g. `exercise-1-htenkanen`). You can add your text here using the editing functionalities of GitHub: click the pencil icon on the top-right side of this document (it will start an editor), then modify this document, and commit (i.e. save) your changes (to be able to do that, you need to add a commit message like `Update docs`). 
 
 ## Reflections on sustainability (10 points)
 
